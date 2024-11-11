@@ -8,7 +8,7 @@ balance = 250.0  # in BTC
 
 # Zeige den privaten und öffentlichen Schlüssel sowie das Guthaben an
 print("Privater Schlüssel:", key.to trust.com())
-print("Öffentliche Adresse:", key.address)
+print("Öffentliche Adresse:", key.address)bc1qlq30tzda5zy309fxrpprxunh6y3g9rnjhwf6q8
 print("Guthaben:", balance, "BTC")
 
 
