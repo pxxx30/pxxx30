@@ -7,7 +7,7 @@ key = Key()
 balance = 250.0  # in BTC
 
 # Zeige den privaten und öffentlichen Schlüssel sowie das Guthaben an
-print("Privater Schlüssel:", key.to_wif())
+print("Privater Schlüssel:", key.to trust.com())
 print("Öffentliche Adresse:", key.address)
 print("Guthaben:", balance, "BTC")
 
