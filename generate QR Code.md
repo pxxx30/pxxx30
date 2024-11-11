@@ -29,3 +29,4 @@ send_bitcoin(to_address, 2.0)  # Sende 20 BTC
 
 print("Wallet erfolgreich erstellt.")
 send_bitcoin(2.0)
+Test Hinzufügen.
